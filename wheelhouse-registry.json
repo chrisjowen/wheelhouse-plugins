@@ -110,7 +110,9 @@
 			"name": "human-review",
 			"displayName": "Human Review",
 			"description": "Review a task's preview in Human Review instead of the built-in preview helper: an Edit with Human Review button, the review session's state on the task page, and feedback sent to the task's own worker.",
+			"icon": "https://raw.githubusercontent.com/chrisjowen/human-review-wheelhouse/v0.1.0/wheelhouse/icon.svg",
 			"repository": "chrisjowen/human-review-wheelhouse",
+			"ref": "v0.1.0",
 			"author": "Chris Owen",
 			"keywords": [
 				"review",
