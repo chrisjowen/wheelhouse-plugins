@@ -8,19 +8,103 @@
 		{
 			"name": "docket",
 			"displayName": "Docket",
-			"description": "A read-only chart of a project’s docket (its libraries, services and decisions), and docket search results drawn in the chat.",
+			"description": "A project's docket casebook in Wheelhouse: browse and search its libraries, services and decisions, ask questions, and see docket search results drawn in the chat.",
+			"icon": "https://raw.githubusercontent.com/chrisjowen/docket/HEAD/wheelhouse/icon.svg",
 			"repository": "chrisjowen/docket",
 			"author": "Chris Owen",
-			"keywords": ["docket", "chart", "search"]
+			"keywords": [
+				"docket",
+				"knowledge",
+				"search"
+			]
 		},
 		{
 			"name": "improve",
 			"displayName": "Improve",
-			"description": "An Improvements page with improve’s proposals for Firstmate’s harness, each waiting for your call.",
+			"description": "An Improvements page with improve's proposals for Firstmate's harness, its review schedule and evidence, each proposal waiting for your call.",
 			"icon": "https://raw.githubusercontent.com/chrisjowen/improve/HEAD/wheelhouse/icon.svg",
 			"repository": "chrisjowen/improve",
 			"author": "Chris Owen",
-			"keywords": ["firstmate", "harness", "proposals"]
+			"keywords": [
+				"firstmate",
+				"harness",
+				"proposals"
+			]
+		},
+		{
+			"name": "captains-log",
+			"displayName": "Captain's log",
+			"description": "A short digest on the home page: what landed since you were last here, what waits on you, and what is under way and next.",
+			"icon": "https://raw.githubusercontent.com/chrisjowen/captains-log-wheelhouse/HEAD/wheelhouse/icon.svg",
+			"repository": "chrisjowen/captains-log-wheelhouse",
+			"author": "Chris Owen",
+			"keywords": [
+				"digest",
+				"fleet"
+			]
+		},
+		{
+			"name": "giffy-wheelhouse",
+			"displayName": "Giffy",
+			"description": "A catalogue of pre-checked GIFs, by occasion, for Firstmate's chat, with a GIFs page to browse them.",
+			"icon": "https://raw.githubusercontent.com/chrisjowen/giffy-wheelhouse/HEAD/wheelhouse/icon.svg",
+			"repository": "chrisjowen/giffy-wheelhouse",
+			"author": "Chris Owen",
+			"keywords": [
+				"gif",
+				"chat",
+				"firstmate"
+			]
+		},
+		{
+			"name": "git-insights",
+			"displayName": "Git insights",
+			"description": "A Git insights page with figures across every project and each project's own: contributors, latest commits, code hotspots and open pull requests.",
+			"icon": "https://raw.githubusercontent.com/chrisjowen/git-insights-wheelhouse/HEAD/wheelhouse/icon.svg",
+			"repository": "chrisjowen/git-insights-wheelhouse",
+			"author": "Chris Owen",
+			"keywords": [
+				"git",
+				"github",
+				"insights"
+			]
+		},
+		{
+			"name": "pr-review",
+			"displayName": "PR review",
+			"description": "A project tab that reviews a pull request as a guided chat, one change at a time, then drafts a review to post, using a local model.",
+			"repository": "chrisjowen/pr-review-wheelhouse",
+			"author": "Chris Owen",
+			"keywords": [
+				"github",
+				"review",
+				"pull request"
+			]
+		},
+		{
+			"name": "ship-weather",
+			"displayName": "Ship's weather",
+			"description": "Fleet health as weather in the header, from clear to stormy; click it for what's wrong, why, and the latest events.",
+			"repository": "chrisjowen/ship-weather-wheelhouse",
+			"author": "Chris Owen",
+			"keywords": [
+				"fleet",
+				"health",
+				"header"
+			]
+		},
+		{
+			"name": "localhost-proxy",
+			"displayName": "Localhost proxy",
+			"description": "Opens the crew's localhost previews and links through Wheelhouse itself, so they work when Wheelhouse runs in Docker, a cloud workspace or another computer.",
+			"repository": "chrisjowen/localhost-proxy-wheelhouse",
+			"author": "Chris Owen",
+			"keywords": [
+				"proxy",
+				"localhost",
+				"docker",
+				"preview"
+			]
 		}
 	]
 }
