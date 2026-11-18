@@ -119,6 +119,20 @@
 				"preview",
 				"feedback"
 			]
+		},
+		{
+			"name": "screensaver",
+			"displayName": "Screensaver",
+			"description": "When you step away, blurs Wheelhouse and sails a boat across it, with calm scenes and optional music; any mouse move, click or key brings you straight back.",
+			"repository": "chrisjowen/screensaver-wheelhouse",
+			"ref": "v0.1.0",
+			"author": "Chris Owen",
+			"keywords": [
+				"screensaver",
+				"idle",
+				"header",
+				"calm"
+			]
 		}
 	]
 }
